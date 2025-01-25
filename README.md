@@ -9,7 +9,7 @@ Use this as a practice repo to simply add content to and then structure the cont
   - add a main heading `<h1>`
   - add 2 paragraphs  `<p>`
   - make the advisory message `<strong>`
-  - group the 2 paragraphs into a `<section>`
+  - group the `<h2>` 2 paragraphs into a `<section>`
 
 ## Resources
 
